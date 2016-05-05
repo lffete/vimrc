@@ -1,2 +1,3 @@
 # vimrc
-vim
+first
+test
